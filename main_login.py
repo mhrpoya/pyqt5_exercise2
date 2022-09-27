@@ -4,7 +4,7 @@ from PyQt5.QtCore import QPoint
 from PyQt5.QtCore import *
 from login_page import Ui_MainWindow
 from page2 import Ui_MainWin
-from random_password.random_pass import rand_pass
+from random_pass import rand_pass
 
 
 
